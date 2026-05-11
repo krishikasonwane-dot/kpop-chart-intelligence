@@ -1,0 +1,7 @@
+date,position,song,artist,popularity,duration_ms,album_type,total_tracks,is_explicit
+2025-01-01,1,Dynamite,BTS,95,199000,Single,1,False
+2025-01-01,2,Butter,BTS,92,210000,Single,1,False
+2025-01-01,3,Supernova,aespa,91,230000,Album,10,False
+2025-01-02,1,Butter,BTS,96,210000,Single,1,False
+2025-01-02,2,Dynamite,BTS,94,199000,Single,1,False
+2025-01-02,3,Supernova,aespa,92,230000,Album,10,False
