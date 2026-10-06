@@ -1,0 +1,23 @@
+date,position,song,artist,popularity,duration_ms,album_type,total_tracks,is_explicit,album_cover_url
+2025-01-01,1,Dynamite,BTS,98,199000,Single,1,False,https://upload.wikimedia.org/wikipedia/en/9/91/BTS_-_Dynamite.png
+2025-01-01,2,Butter,BTS,95,164000,Single,1,False,https://upload.wikimedia.org/wikipedia/en/3/3f/BTS_-_Butter.png
+2025-01-01,3,Super Shy,NewJeans,94,154000,Album,6,False,https://upload.wikimedia.org/wikipedia/en/4/4d/NewJeans_-_Get_Up.png
+2025-01-01,4,Ditto,NewJeans,92,185000,Album,6,False,https://upload.wikimedia.org/wikipedia/en/f/f0/NewJeans_-_OMG.png
+2025-01-01,5,How You Like That,BLACKPINK,93,180000,Single,1,False,https://upload.wikimedia.org/wikipedia/en/9/90/Blackpink_-_How_You_Like_That.png
+2025-01-01,6,Pink Venom,BLACKPINK,91,187000,Album,8,False,https://upload.wikimedia.org/wikipedia/en/f/f2/Born_Pink_Blackpink.jpg
+2025-01-02,3,Dynamite,BTS,96,199000,Single,1,False,https://upload.wikimedia.org/wikipedia/en/9/91/BTS_-_Dynamite.png
+2025-01-02,1,Magnetic,ILLIT,97,165000,Single,1,False,https://upload.wikimedia.org/wikipedia/en/f/f0/Illit_Magnetic.jpg
+2025-01-02,5,Cupid,FIFTY FIFTY,90,178000,Single,1,False,https://upload.wikimedia.org/wikipedia/en/0/0d/Fifty_Fifty_-_Cupid.png
+2025-01-02,8,Drama,aespa,88,200000,Album,10,False,https://upload.wikimedia.org/wikipedia/en/a/a8/Aespa_-_Drama.png
+2025-01-03,2,Perfect Night,LE SSERAFIM,95,190000,Single,1,False,https://upload.wikimedia.org/wikipedia/en/e/e2/Perfect_Night_Le_Sserafim.jpg
+2025-01-03,6,I AM,IVE,89,202000,Album,11,False,https://upload.wikimedia.org/wikipedia/en/e/e5/Ive_I_Am.jpg
+2025-01-03,10,Savage,aespa,84,215000,Album,10,False,https://upload.wikimedia.org/wikipedia/en/6/6d/Aespa_Savage.jpg
+2025-01-04,1,Super Shy,NewJeans,99,154000,Album,6,False,https://upload.wikimedia.org/wikipedia/en/4/4d/NewJeans_-_Get_Up.png
+2025-01-04,4,Love Dive,IVE,91,183000,Single,1,False,https://upload.wikimedia.org/wikipedia/en/5/59/Ive_Love_Dive.jpg
+2025-01-04,7,Eve Psyche,LE SSERAFIM,88,192000,Album,13,True,https://upload.wikimedia.org/wikipedia/en/9/92/Le_Sserafim_Unforgiven.jpg
+2025-01-05,2,OMG,NewJeans,94,201000,Album,6,False,https://upload.wikimedia.org/wikipedia/en/f/f0/NewJeans_-_OMG.png
+2025-01-05,5,ANTIFRAGILE,LE SSERAFIM,90,204000,Album,13,False,https://upload.wikimedia.org/wikipedia/en/8/82/Antifragile_Le_Sserafim.jpg
+2025-01-05,9,Spicy,aespa,86,198000,Album,10,False,https://upload.wikimedia.org/wikipedia/en/a/a8/Aespa_-_Drama.png
+2025-01-06,1,Cupid,FIFTY FIFTY,98,178000,Single,1,False,https://upload.wikimedia.org/wikipedia/en/0/0d/Fifty_Fifty_-_Cupid.png
+2025-01-06,3,Perfect Night,LE SSERAFIM,95,190000,Single,1,False,https://upload.wikimedia.org/wikipedia/en/e/e2/Perfect_Night_Le_Sserafim.jpg
+2025-01-06,7,Drama,aespa,89,200000,Album,10,False,https://upload.wikimedia.org/wikipedia/en/a/a8/Aespa_-_Drama.png
